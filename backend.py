@@ -1,16 +1,3 @@
-# from flask import Flask
-
-# app = Flask(__name__)
-
-# @app.route('/')
-# def hello():
-#     return "Checking if backend server working", 200
-
-# if __name__ == "__main__":
-#     app.run(port=8080)
-    
-    
-
 # Using Multiprocessing
 
 from flask import Flask
