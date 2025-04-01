@@ -33,10 +33,11 @@ This project simulates a real-world application-layer load balancer — similar 
 
 ```
 .
-├── Backend.py         # Launches Flask servers on multiple ports
-├── LoadBalancer.py    # Load Balancer with request routing + health checks
+├── backend.py         # Launches Flask servers on multiple ports
+├── load_balancer.py   # Load Balancer with request routing + health checks
 ├── urls.txt           # File with repeated URLs for load testing
 ├── README.md          # Project documentation
+├── LICENSE            # License
 ```
 
 ---
