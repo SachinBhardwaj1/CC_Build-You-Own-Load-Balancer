@@ -1,6 +1,6 @@
 # CC_Build-You-Own-Load-Balancer by John Crickett
 
-# 🔀 Build Your Own HTTP Load Balancer with Health Checks
+# ⚖️ Build Your Own HTTP Load Balancer with Health Checks
 
 Welcome to a hands-on systems project that walks through how to **build a custom Layer 7 Load Balancer** using **Python** and **Flask**, capable of distributing HTTP requests across multiple backend servers with **health checks** and **concurrent client handling**.
 
